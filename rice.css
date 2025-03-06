@@ -1,11 +1,5 @@
-@font-face {
-  font-family: "comicoro";
-  src: url("https://file.garden/Z2qKUX9U8UFvf65x/fonts%20bruh/comicoro.ttf");
-}
-
 * {
   cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat909.cur), auto !important;
-  font-family: "comicoro";
 }
 
 :root {
