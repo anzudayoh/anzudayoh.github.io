@@ -19,7 +19,7 @@ body {
 
   &::after {
     content: "";
-    background-image: url("https://eggwichwithbacons.nekoweb.org/img%2Fgraphics/noise.png");
+    background-image: url("https://terakun.nekoweb.org/img%2Fgraphics/noise.png");
     opacity: 5%;
     position: fixed;
     top: 0;
